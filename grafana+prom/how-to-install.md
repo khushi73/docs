@@ -1,0 +1,1 @@
+https://antonputra.com/monitoring/Install-prometheus-and-grafana-on-ubuntu/#install-node-exporter-on-ubuntu-2004
